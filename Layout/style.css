@@ -1,0 +1,142 @@
+*
+{
+    margin:0%;
+    padding:0%;
+    box-sizing: border-box;
+}
+.nav
+{
+    height:80px;
+    width:100%;
+    background-color: black;
+    
+}
+.logo
+{
+    height:80px;
+    width:10%;
+    float:left;
+
+}
+.logo img
+{
+    height: 80px;
+    width:100%;
+   
+}
+.search-bar
+{
+    width: 60%;
+    float:left;
+    
+}
+input
+{
+    height:70px;
+    width:90%;
+    float:left;
+    margin-top: 5px;
+    margin-left: 7%;
+    border-radius: 5px;
+    
+}
+::placeholder
+{
+    text-align: center;
+    font-weight: bold;
+    font-size:20px;
+}
+.contant
+{
+    height:80px;
+    width:30%; 
+    float:left;
+}
+li
+{
+    float: left;
+}
+.contant a
+{
+    height:80px;
+    width:100%; 
+    text-decoration: none;
+    color:white;
+    padding: 0px 40px;
+    line-height: 80px;
+}
+.cnt
+{
+height:700px;
+width:60%;
+margin:auto;
+border:1px;
+    border-color: black;
+}
+.image1
+{   height:300px;
+    width:30%;
+    position: relative;
+   float:left;
+   top:15%;
+}
+.image1 img
+{
+    height:300px;
+    width:70%;
+    position: relative;
+
+}
+.contant1
+{
+    height:300px;
+    width:70%;
+    position: relative;
+    transform: translate(-50%,-50%);
+    left:35%;
+    top:38%;
+    float:left;
+    text-align: justify;
+    border:1px;
+    border-color: black;
+}
+.contant3
+{
+    height:100px;
+    width:60%;
+   position:absolute;
+   top:55%;
+   text-align: justify;
+
+}
+.image2
+{   height:300px;
+    width:30%;
+    position:relative;
+   float:left;
+   top:35%;
+   left:9%;
+
+}
+.image2 img
+{
+    height:300px;
+    width:70%;
+    position: relative;
+
+}
+.contant2
+{
+    height:300px;
+    width:70%;
+    position: relative;
+    transform: translate(-50%,-50%);
+    left:35%;
+    top:60%;
+    float:left;
+    text-align: justify;
+}
+
+
+
+
